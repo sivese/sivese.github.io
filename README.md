@@ -2,6 +2,16 @@
 
 ## Reference
 
+### Blog Design
+
+- [Rust Blog](https://blog.rust-lang.org/inside-rust/)
+- [Chris Biscardi](https://www.christopherbiscardi.com/)
+- [Toast Mommy](https://ansohxxn.github.io/)
+- [Hover Bear](https://hoverbear.org/blog/)
+- [Domenico Luciani](https://domenicoluciani.com/)
+
+### Web Dev
+
 - [HTML Tutorial](http://www.homejjang.com/03/Tag_element_attribute.php)
 - [CSS Tutorial](http://www.homejjang.com/07/css_basic.php)
 
