@@ -4,7 +4,7 @@ locale: "ko-KR"
 title: Akashic Record
 email: codeguru.sivese@gmail.com
 description: >- 
-  Think & Write, repeat
+  Think & Write, Repeat
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sivese.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
