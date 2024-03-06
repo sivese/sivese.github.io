@@ -307,7 +307,10 @@ a {
   display: flex;
   margin-top: 5rem;
   margin-left: 10rem;
-  width: 7.5rem; 
+  
+  .btn {
+    width: 7.5rem; 
+  }
 }
 
 .blog-name {
