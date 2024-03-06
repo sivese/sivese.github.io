@@ -303,6 +303,13 @@ a {
   }
 }
 
+.header-list {
+  display: flex;
+  margin-top: 5rem;
+  margin-left: 10rem;
+  width: 7.5rem; 
+}
+
 .blog-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
@@ -337,7 +344,7 @@ a {
     font-size: 1rem;
   }
 }
-    
+ 
 .site-footer {
   text-align: center;
   padding-top: 2rem;
