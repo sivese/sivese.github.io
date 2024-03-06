@@ -6,9 +6,9 @@
 
 - [Rust Blog](https://blog.rust-lang.org/inside-rust/)
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
-- [Toast Mommy](https://ansohxxn.github.io/)
 - [Hover Bear](https://hoverbear.org/blog/)
 - [Domenico Luciani](https://domenicoluciani.com/)
+- [Fresh Shrimp](https://freshrimpsushi.github.io/ko/)
 
 ### Web Dev
 
