@@ -1,0 +1,7 @@
+<div>
+    <ul>
+        {% for category in site.categories %}
+        <h2> {{ category[0] }} - ({{ category.last.size }}) </h1>
+        {% endfor %}
+    </ul>
+</div>
