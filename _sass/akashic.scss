@@ -295,7 +295,7 @@ a {
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 2.5rem 15rem;
   }
 
   @include small {
@@ -306,10 +306,13 @@ a {
 .header-list {
   display: flex;
   margin-top: 5rem;
-  margin-left: 10rem;
+  margin-left: 15rem;
   
   .btn {
-    width: 7.5rem; 
+    width: 7.5rem;
+    height: 3.5rem;
+    text-align: center;
+    font-size: 1.25rem;
   }
 }
 
