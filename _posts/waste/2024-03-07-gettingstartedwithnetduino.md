@@ -5,6 +5,3 @@ date: 2024-03-07 14:33
 categories: Waste 
 tag: [  Netduino, Hardware, .Net ]
 ---
-
-## Publisher: O'REILLY
-## Author: Chris Walker
