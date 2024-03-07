@@ -316,6 +316,14 @@ a {
   }
 }
 
+.blog-body {
+  display: flex;
+}
+
+.side-nav {
+  width: 35rem;
+}
+
 .blog-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
@@ -350,7 +358,7 @@ a {
     font-size: 1rem;
   }
 }
- 
+
 .site-footer {
   text-align: center;
   padding-top: 2rem;

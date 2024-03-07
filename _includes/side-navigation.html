@@ -1,7 +1,7 @@
-<div>
+<div class="side-nav">
     <ul>
         {% for category in site.categories %}
-        <h2> {{ category[0] }} - ({{ category.size }}) </h1>
+        <a> {{ category[0] }} - ({{ category.size }}) </a> 
         {% endfor %}
     </ul>
 </div>
