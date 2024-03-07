@@ -45,7 +45,7 @@ $hr-border-color: #eff0f1 !default;
 }
 
 body {
-  padding: 0;
+  padding: 10rem;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
@@ -317,11 +317,12 @@ a {
 }
 
 .blog-body {
+  margin-top: 15rem;
   display: flex;
 }
 
 .side-nav {
-  width: 35rem;
+  width: 25rem;
 }
 
 .blog-name {
