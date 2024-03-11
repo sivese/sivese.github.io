@@ -9,6 +9,7 @@
 - [Hover Bear](https://hoverbear.org/blog/)
 - [Domenico Luciani](https://domenicoluciani.com/)
 - [Fresh Shrimp](https://freshrimpsushi.github.io/ko/)
+- [Ritual](https://rust-qt.github.io/)
 
 ### Web Dev
 
