@@ -8,6 +8,7 @@
     {{ post.category }}
     {{ post.categories }}
     {% if post.category == "Waste" %}
+    {{ post }}
     <li> 
         <h3><a href="{{ post.url }}"> {{ post.title }} </a></h3>
         <p> {{ page.date | date_to_string }} </p>
