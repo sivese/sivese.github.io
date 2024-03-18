@@ -1,4 +1,5 @@
 ---
+layout: category
 ---
 
 # Waste of Money
