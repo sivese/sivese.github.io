@@ -5,10 +5,15 @@
 ## Arduino & Raspberry Pi Bundle
 
 {% for post in site.posts %}
+    <li> 
+        <h3><a href="{{ post.url }}"> {{ post.title }} </a></h3>
+        <p> {{ page.date | date_to_string }} </p>
+        <p>{{ post.excerpt }}</p>
+    </li>
     {{ post.category }}
     {{ post.categories }}
-    {% if post.category == "Waste" %}
     {{ post }}
+    {% if post.category == "Waste" %}
     <li> 
         <h3><a href="{{ post.url }}"> {{ post.title }} </a></h3>
         <p> {{ page.date | date_to_string }} </p>
