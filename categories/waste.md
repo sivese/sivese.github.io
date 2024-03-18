@@ -1,5 +1,6 @@
 ---
 layout: category
+category: "Waste"
 ---
 
 # Waste of Money

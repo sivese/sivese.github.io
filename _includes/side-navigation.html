@@ -1,7 +1,7 @@
 <div class="side-nav">
     <ul>
         {% for category in site.categories %}
-        <a href="{{ site.url }}/categories/{{ category[0] | downcase }}"> {{ category[0] }} - ({{ category.size }}) </a> 
+        <a href="{{ site.url }}categories/{{ category[0] | downcase }}"> {{ category[0] }} - ({{ category.size }}) </a> 
         {% endfor %}
     </ul>
 </div>
