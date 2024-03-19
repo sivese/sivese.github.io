@@ -10,6 +10,7 @@
 - [Domenico Luciani](https://domenicoluciani.com/)
 - [Fresh Shrimp](https://freshrimpsushi.github.io/ko/)
 - [Ritual](https://rust-qt.github.io/)
+- [523](https://g.5-23.dev/)
 
 ### Web Dev
 
