@@ -10,7 +10,7 @@ category: "Waste"
 ## Arduino & Raspberry Pi Bundle
 
 {% for post in site.posts %}
-    {{ post.category }}
+    {{ post.categories }}
     {% if post.category == "Waste" %}
     <li> 
         <h3><a href="{{ post.url }}"> {{ post.title }} </a></h3>
