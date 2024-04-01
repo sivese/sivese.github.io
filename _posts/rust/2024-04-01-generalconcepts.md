@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rust General Concepts"
-date: 2024-04-01 01:58
+date: 2024-04-01-01:58
 categories: Rust 
 tag: [ Basic ]
 ---
