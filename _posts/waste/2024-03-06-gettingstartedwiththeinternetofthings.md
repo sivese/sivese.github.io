@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Getting Started with the Internet of Things"
-date: 2024-03-06 18:45
+date: 2024-03-06-18:45
 categories: Waste 
 tag: [ IoT, Netduino, Hardware, .Net ]
 ---
 
-![cover](./img/book_cover.jfif)
+{% assign img_path | {{ site.image_path | append: "/waste/getting-started-with-the-iot" }} %} 
+
+![cover]({{ img_path }}/book_cover.jfif)
 
 ## Publisher: O'Reilly
 ## Author: Cuno Pfister
@@ -28,7 +30,7 @@ tag: [ IoT, Netduino, Hardware, .Net ]
 
 ## Push vs Pull
 
-![push&pull](./img/push_pull.png)
+![push&pull]({{ img_path }}/push_pull.png)
 
 푸시는 어떠한 주체가 데이터를 전달하는 것을 의미하는데, 뭔가 밀어넣는 모습을 떠올리면 이해하기가 수월하다. 풀링은 거꾸로 데이터를 어딘가에서 가져오는 것인데, 뭔가를 끌어당겨서 꺼내는 모습을 떠올리면 된다.
 
