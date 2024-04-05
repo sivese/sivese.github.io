@@ -13,8 +13,9 @@ image_path: https://sivese.github.io/assets/img
 github_username: sivese
 
 markdown: kramdown
-highlighter: rouge
-    input: GFM
+kramdown:
+input: GFM
+syntax_highlighter: rouge
 
 
 plugins:
