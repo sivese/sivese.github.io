@@ -6,9 +6,8 @@ categories: Waste
 tag: [ IoT, Netduino, Hardware, .Net ]
 ---
 
-{% assign img_path = {{ site.image_path }}"/waste/getting-started-with-the-iot" %}
+{% assign img_path = site.image_path | append: "/waste/getting-started-with-the-iot" %}
 
-{{ site.image_path }}
 {{ img_path }}
 
 ![cover]({{ img_path }}/book_cover.jpg)
