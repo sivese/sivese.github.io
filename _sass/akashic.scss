@@ -130,8 +130,8 @@ a {
   }
 
   img {
-    max-width: 100%;
-    align-content: center;
+    display: flex;
+    margin: auto;
   }
 
   h1,
