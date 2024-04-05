@@ -8,9 +8,7 @@ tag: [ IoT, Netduino, Hardware, .Net ]
 
 {% assign img_path = site.image_path | append: "/waste/getting-started-with-the-iot" %}
 
-{{ img_path }}
-
-![cover]({{ img_path }}/book_cover.jpg)
+![cover]({{ img_path }}/book_cover.jpg){: width="50rem" height="33rem" }
 
 ## Publisher: O'Reilly
 ## Author: Cuno Pfister
