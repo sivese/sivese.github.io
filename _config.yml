@@ -12,5 +12,10 @@ image_path: https://sivese.github.io/assets/img
 #twitter_username: jekyllrb
 github_username: sivese
 
+markdown: kramdown
+highlighter: rouge
+    input: GFM
+
+
 plugins:
 

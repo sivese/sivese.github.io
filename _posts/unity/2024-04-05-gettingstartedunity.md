@@ -6,7 +6,7 @@ categories: Unity
 tag: [ Basic ]
 ---
 
-```
+{% highlight csharp %}
 class Unit : MonoBehaviour
 {
     void Start()
@@ -19,4 +19,4 @@ class Unit : MonoBehaviour
         
     }
 }
-```
+{% endhighlight %}
