@@ -8,7 +8,7 @@ tag: [  Maker, Hardware, Kinect ]
 
 {% assign img_path = site.image_path | append: "/waste/making-things-see" %}
 
-![cover]({{ img_path }}/book_cover.jpg){: width="330" height="500" }
+![cover]({{ img_path }}/book_cover.jpg){: width="360" height="500" }
 
 ## Publisher: Make Community
 
@@ -22,7 +22,7 @@ tag: [  Maker, Hardware, Kinect ]
 
 ### Kinect
 
-![cover]({{ img_path }}/kinect.png)
+![cover]({{ img_path }}/kinect.png){: width="600" height="200" }
 
 Kinect 는 기존의 카메라와 다르게 깊이(depth)를 측정하는 카메라인데, 즉, 사물이 얼마나 멀리 떨어져있는를 확인 할 수 있다. 그래서 이를 바탕으로 3d 점 좌표를 추출하거나, 사람의 골격(skeleton) 정보를 추출 할 수 있다. 그래서 단순히 게임에만 쓰임새가 있지는 않고, 모션 캡쳐나 형상을 본 뜨는 등의 산업적인 부분에도 얼마든지 활용이 가능하다. 이 책에서도 그런 부분을 어느정도 의식을 해서 게임이 아닌 분야에서의 쓰임새도 같이 소개하고 있긴하다.
 
