@@ -3,7 +3,7 @@ layout: post
 title: "Getting Started with the Internet of Things"
 date: 2024-03-06
 categories: Waste 
-tag: [ IoT, Netduino, Hardware, .Net ]
+tag: [ Maker, IoT, Netduino, Hardware, .Net ]
 ---
 
 {% assign img_path = site.image_path | append: "/waste/getting-started-with-the-iot" %}
