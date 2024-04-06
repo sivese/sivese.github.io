@@ -1,16 +1,16 @@
 ---
 layout: category
-category: "Rust"
+category: "Unity"
 ---
 
-<h1>Rust</h1> 
+<h1>Unity</h1> 
 
-러스트에 대해서 다루는 페이지 입니다.
+Unity와 관련한 자료들
 
-<h2> Rust Basic </h2> 
+<h2> Unity basics </h2> 
 
 {% for post in site.posts %}
-    {% if post.categories[0] == "Rust" %}
+    {% if post.categories[0] == "Unity" %}
     <li> 
         <h3><a href="{{ post.url }}"> {{ post.title }} </a></h3>
         <p> {{ page.date | date_to_string }} </p>
