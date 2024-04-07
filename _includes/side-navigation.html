@@ -1,5 +1,6 @@
 <div class="side-nav">
     <ul>
+        <h2>Tech Categories</h2>
         {% for category in site.categories %}
         <li>
             <a href="{{ site.url }}categories/{{ category[0] | downcase }}"> {{ category[0] }} ({{ category[1].size }}) </a> 
