@@ -2,7 +2,7 @@
     <ul>
         {% for category in site.categories %}
         <li>
-            <a href="{{ site.url }}categories/{{ category[0] | downcase }}"> {{ category[0] }} - ({{ site.categories[category].size }}) </a> 
+            <a href="{{ site.url }}categories/{{ category[0] | downcase }}"> {{ category[0] }} - ({{ site.categories[category[0]].size }}) </a> 
         </li>
         {% endfor %}
     </ul>
